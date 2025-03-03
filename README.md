@@ -37,6 +37,6 @@ Ambos archivos se tratan de ejercicios teóricos realizados como parte de una pr
 
 ## Licencia
 
-Este proyecto se distribuye bajo MIT License.
+Este proyecto se distribuye bajo Creative Commons Attribution 4.0 International (CC BY 4.0) License.
 
 _Elaborado por [Pedro Ismael Ruiz](https://www.linkedin.com/in/pdro-ruiz/) – 03/03/2025._
