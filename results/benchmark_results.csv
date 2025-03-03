@@ -1,0 +1,157 @@
+Model,Image,Caption,Caption Time (s),VQA Question,VQA Answer,VQA Time (s),VRAM (GB),BLEU Score
+IDEFICS2,000000000139.jpg,"Describe the image in detail.
+TDM
+
+In this image I can see the inner part of the room. In the room I can see the television, table, chairs, flower vase, refrigerator, cupboards, window, wall, clock and few objects.",4.072988271713257,Are there people in the image?,"Q: Are there people in the image?
+TDM: Yes.
+
+Q: What",2.3252439498901367,4.82570219039917,0
+IDEFICS2,000000000139.jpg,"Describe the image in detail.
+TDM
+
+In this image I can see the inner part of the room. In the room I can see the television, table, chairs, flower vase, refrigerator, cupboards, window, wall, clock and few objects.",4.151858329772949,Which color predominates in the image?,"Q: Which color predominates in the image?
+TDM: Yellow.",2.138873815536499,4.82570219039917,0
+IDEFICS2,000000000285.jpg,"Describe the image in detail.
+TDM",5.235937833786011,Are there people in the image?,"Q: Are there people in the image?
+TDM: No.",5.445852518081665,4.834848880767822,0
+IDEFICS2,000000000285.jpg,"Describe the image in detail.
+TDM",5.3430962562561035,Which color predominates in the image?,"Q: Which color predominates in the image?
+TDM: Green.",6.5118348598480225,4.834848880767822,0
+IDEFICS2,000000000632.jpg,"Describe the image in detail.
+TDM
+
+The bedroom has a bookcase full of books and a window with plants next to it.",3.952225923538208,Are there people in the image?,"Q: Are there people in the image?
+TDM: No.",3.0017733573913574,4.829014301300049,0
+IDEFICS2,000000000632.jpg,"Describe the image in detail.
+TDM
+
+The bedroom has a bookcase full of books and a window with plants next to it.",4.3121657371521,Which color predominates in the image?,"Q: Which color predominates in the image?
+TDM: Blue.
+TM: Blue.",3.1061818599700928,4.829014301300049,0
+IDEFICS2,000000000724.jpg,"Describe the image in detail.
+TDM
+Related Images",1.9665138721466064,Are there people in the image?,"Q: Are there people in the image?
+TDM",2.0819122791290283,4.817523002624512,0
+IDEFICS2,000000000724.jpg,"Describe the image in detail.
+TDM
+Related Images",1.882800817489624,Which color predominates in the image?,"Q: Which color predominates in the image?
+TDM",1.5787060260772705,4.817523002624512,0
+IDEFICS2,000000000776.jpg,"Describe the image in detail.
+TDM",2.0858514308929443,Are there people in the image?,"Q: Are there people in the image?
+TDM: No.
+Q: Are there",2.3884148597717285,4.82574987411499,0
+IDEFICS2,000000000776.jpg,"Describe the image in detail.
+TDM",2.094601631164551,Which color predominates in the image?,"Q: Which color predominates in the image?
+TDM: Brown.",2.2067885398864746,4.82574987411499,0
+IDEFICS2,000000000785.jpg,"Describe the image in detail.
+TDM
+
+A woman in red skies in the snow.",2.699969530105591,Are there people in the image?,"Q: Are there people in the image?
+TDM: Yes.
+
+A: Yes",2.4299869537353516,4.82567834854126,0
+IDEFICS2,000000000785.jpg,"Describe the image in detail.
+TDM
+
+A woman in red skies in the snow.",3.1355719566345215,Which color predominates in the image?,"Q: Which color predominates in the image?
+TDM",2.1018149852752686,4.82567834854126,0
+IDEFICS2,000000000802.jpg,"Describe the image in detail.
+TDM
+
+The kitchen has wood cabinets and white appliances.",2.704702138900757,Are there people in the image?,"Q: Are there people in the image?
+TDM: No.",2.2081756591796875,4.82565450668335,0
+IDEFICS2,000000000802.jpg,"Describe the image in detail.
+TDM
+
+The kitchen has wood cabinets and white appliances.",2.712188243865967,Which color predominates in the image?,"Q: Which color predominates in the image?
+TDM",2.0435233116149902,4.82565450668335,0
+IDEFICS2,000000000872.jpg,"Describe the image in detail.
+TDM
+
+Two baseball players on a field in the outfield. One is catching a ball. The other is running.",27.04214906692505,Are there people in the image?,Q: Are there people in the image?  Yes.  There are 2 men playing,34.300565242767334,4.837754249572754,0
+IDEFICS2,000000000872.jpg,"Describe the image in detail.
+TDM
+
+Two baseball players on a field in the outfield. One is catching a ball. The other is running.",32.73315763473511,Which color predominates in the image?,"Q: Which color predominates in the image?
+TDM: Green.",38.03987765312195,4.837754249572754,0
+IDEFICS2,000000000885.jpg,"Describe the image in detail.
+TDM
+
+A man playing tennis has ""j.p. morgan"" and ""polo"" banners behind him.",3.7480926513671875,Are there people in the image?,"Q: Are there people in the image? Yes.
+TDM
+Photo credit: TDM",2.727600336074829,4.82572603225708,0
+IDEFICS2,000000000885.jpg,"Describe the image in detail.
+TDM
+
+A man playing tennis has ""j.p. morgan"" and ""polo"" banners behind him.",3.3483572006225586,Which color predominates in the image?,"Q: Which color predominates in the image?
+TDM: Blue.",2.36726975440979,4.82572603225708,0
+IDEFICS2,000000001000.jpg,"Describe the image in detail.
+TDM
+
+In this image we can see a group of people standing on the ground. In that a boy is holding a trophy in his hands. On the backside we can see a net, a board, a group of trees",6.2515199184417725,Are there people in the image?,Q: Are there people in the image? Yes. There are 15 people in the,4.744211196899414,4.828942775726318,0
+IDEFICS2,000000001000.jpg,"Describe the image in detail.
+TDM
+
+In this image we can see a group of people standing on the ground. In that a boy is holding a trophy in his hands. On the backside we can see a net, a board, a group of trees",6.241262674331665,Which color predominates in the image?,"Q: Which color predominates in the image?
+TDM
+Answer: Green.",4.400869846343994,4.828942775726318,0
+BLIP2,000000000139.jpg,"a living room filled with furniture and a fireplace
+",1.8044183254241943,Are there people in the image?," Yes, there are people in the image
+",1.332170009613037,7.0205888748168945,0
+BLIP2,000000000139.jpg,"a living room filled with furniture and a fireplace
+",1.0450069904327393,Which color predominates in the image?,"
+",0.9017395973205566,7.0205888748168945,0
+BLIP2,000000000285.jpg,"a large brown bear sitting in the grass
+",0.9421653747558594,Are there people in the image?,"
+",0.8577780723571777,7.0205888748168945,0
+BLIP2,000000000285.jpg,"a large brown bear sitting in the grass
+",0.94100022315979,Which color predominates in the image?,"
+",0.8625054359436035,7.0205888748168945,0
+BLIP2,000000000632.jpg,"a bedroom with a blue comforter and a bookshelf
+",1.0235137939453125,Are there people in the image?," Yes, there are people in the image
+",0.8524622917175293,7.0205888748168945,0
+BLIP2,000000000632.jpg,"a bedroom with a blue comforter and a bookshelf
+",1.0193142890930176,Which color predominates in the image?,"
+",0.8689026832580566,7.0205888748168945,0
+BLIP2,000000000724.jpg,"a stop sign on the side of the road
+",0.867957592010498,Are there people in the image?,"
+",0.8678457736968994,7.0205888748168945,0
+BLIP2,000000000724.jpg,"a stop sign on the side of the road
+",0.8804175853729248,Which color predominates in the image?,"
+",0.8826127052307129,7.0205888748168945,0
+BLIP2,000000000776.jpg,"a group of three teddy bears on a bed
+",0.9956860542297363,Are there people in the image?,"
+",0.8688845634460449,7.0205888748168945,0
+BLIP2,000000000776.jpg,"a group of three teddy bears on a bed
+",1.0060696601867676,Which color predominates in the image?,"
+",0.8814799785614014,7.0205888748168945,0
+BLIP2,000000000785.jpg,"a woman riding skis down a snow covered slope
+",0.9196155071258545,Are there people in the image?," Yes, there are people in the image
+",0.8704483509063721,7.0205888748168945,0
+BLIP2,000000000785.jpg,"a woman riding skis down a snow covered slope
+",0.9344639778137207,Which color predominates in the image?,"
+",0.8781120777130127,7.0205888748168945,0
+BLIP2,000000000802.jpg,"a kitchen with a refrigerator and stove in it
+",0.914193868637085,Are there people in the image?," If so, what are they doing?
+",0.8656280040740967,7.0205888748168945,0
+BLIP2,000000000802.jpg,"a kitchen with a refrigerator and stove in it
+",0.9163718223571777,Which color predominates in the image?,"
+",0.8691182136535645,7.0205888748168945,0
+BLIP2,000000000872.jpg,"a baseball player running to catch a ball
+",0.8237605094909668,Are there people in the image?," Yes, there are people in the image
+",0.861732006072998,7.0205888748168945,0
+BLIP2,000000000872.jpg,"a baseball player running to catch a ball
+",0.8296713829040527,Which color predominates in the image?,"
+",0.8829090595245361,7.0205888748168945,0
+BLIP2,000000000885.jpg,"a man playing tennis on a tennis court
+",0.9545876979827881,Are there people in the image?," Yes, there are people in the image
+",0.8618385791778564,7.0205888748168945,0
+BLIP2,000000000885.jpg,"a man playing tennis on a tennis court
+",0.9598333835601807,Which color predominates in the image?,"
+",0.8817787170410156,7.0205888748168945,0
+BLIP2,000000001000.jpg,"a group of people posing for a picture on a tennis court
+",0.9979605674743652,Are there people in the image?,"
+",0.8668789863586426,7.0205888748168945,0
+BLIP2,000000001000.jpg,"a group of people posing for a picture on a tennis court
+",1.019432783126831,Which color predominates in the image?,"
+",0.8915529251098633,7.0205888748168945,0

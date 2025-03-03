@@ -1,0 +1,5 @@
+,Caption Time (s),Caption Time (s),Caption Time (s),Caption Time (s),VQA Time (s),VQA Time (s),VQA Time (s),VQA Time (s),VRAM (GB),VRAM (GB),BLEU Score,BLEU Score
+,mean,std,min,max,mean,std,min,max,mean,std,mean,std
+Model,,,,,,,,,,,,
+BLIP2,0.99,0.202,0.824,1.804,0.895,0.104,0.852,1.332,7.021,0.0,0.0,0.0
+IDEFICS2,6.286,8.233,1.883,32.733,6.307,10.312,1.579,38.04,4.828,0.005,0.0,0.0
